@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import styled, { css } from 'styled-components';
-import banner from '../../assets/Banner/banner.png';
-import menu from '../../assets/menu.svg';
+import banner from '../assets/Banner/banner.png';
+import menu from '../assets/menu.svg';
 
 interface ButtonProps {
   background: string;
@@ -698,6 +698,4 @@ export const Footer = styled.footer`
       }
     }
   }
-
-  
 `;

@@ -20,7 +20,7 @@ import {
   Box,
   MoreDetails,
   Footer,
-} from './styles';
+} from '../../styles/Home';
 
 import logo from '../../assets/logo.png';
 
@@ -100,7 +100,7 @@ const Main: React.FC = () => {
         </Button>
         <MenuBar
           onClick={() => {
-            setOpen((state) => !state);
+            setOpen(state => !state);
           }}
         />
       </Header>
