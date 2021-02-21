@@ -1,34 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>Figma Land - UI</h1>
 
-## Getting Started
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=next&message=framework&color=white&style=for-the-badge&logo=next.js"/>
+   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-First, run the development server:
+### Deploy
 
-```bash
-npm run dev
-# or
+[Acesse a aplicação. Clique aqui!](https://figma-land-layout.vercel.app/)
+
+### Tópicos
+
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+
+
+## Descrição do projeto
+
+<p align="justify">
+  Aplicação para prática durante estudos usando NextJs e praticando responsividade.
+</p>
+
+
+## Layout:
+
+![Home](https://github.com/netojso/teste-eagle/blob/master/prints/Pagina%20Dashboard.png)
+
+## Pré-requisitos
+
+:warning:  [Node](https://nodejs.org/en/download/)
+
+
+## Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto:
+
+```
+git clone https://github.com/netojso/figma-land-layout.git
+```
+Acesse a pasta raiz do repositório clonado e rode:
+
+```
+yarn install
+```
+
+No terminal, rode:
+
+```
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Dependencias e libs utilizadas :books:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
+- [Next.js](https://nextjs.org/)
+- [Styled-Components](https://react-pdf.org/)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Desenvolvedores/Contribuintes :octocat:
 
-## Learn More
+**Linkedin:** [Octacilio Serafim](https://www.linkedin.com/in/octacilio-serafim/)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Licença
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The [MIT License]() (MIT)
