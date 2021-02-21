@@ -29,7 +29,7 @@
 
 ## Layout:
 
-![Home](https://github.com/netojso/teste-eagle/blob/master/prints/Pagina%20Dashboard.png)
+![Home](https://github.com/netojso/figma-land-layout/blob/main/src/assets/figma-land.gif)
 
 ## Pré-requisitos
 
